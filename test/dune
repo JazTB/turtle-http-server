@@ -1,0 +1,7 @@
+(test
+  (libraries TurtleHttpServer)
+  (name test_sqlite_db))
+
+(test
+  (libraries TurtleHttpServer)
+  (name test_arguments))

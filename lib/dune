@@ -1,0 +1,9 @@
+(library
+ (libraries
+   ArgumentParser
+   UniqueIdentifier
+   Messages
+   SqliteHandler
+   yojson
+   sqlite3)
+ (name TurtleHttpServer))

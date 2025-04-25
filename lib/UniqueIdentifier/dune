@@ -1,0 +1,4 @@
+(library
+  (name UniqueIdentifier)
+  (modules UniqueIdentifier)
+  (libraries unix))

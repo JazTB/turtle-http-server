@@ -1,0 +1,8 @@
+(executable
+  (public_name main)
+  (libraries
+    lwt
+    cohttp
+    cohttp-lwt-unix
+    TurtleHttpServer)
+  (name main))

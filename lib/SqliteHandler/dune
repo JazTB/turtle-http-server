@@ -1,0 +1,4 @@
+(library
+  (name SqliteHandler)
+  (modules SqliteHandler)
+  (libraries str unix Messages UniqueIdentifier sqlite3))
